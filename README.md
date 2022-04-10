@@ -1,7 +1,16 @@
 # NGramBuilder
+<p align="center">
 A program that extracts a user specified text sequence from a directory of text files and sorts the number of occurrences of the user specified sequence from high to low.
+ </p>
+ <h2 align="center">
+  <b>How to run</b>
+</h2>
+Command: Java -Xmx1G –cp ./ngrammer.jar ie.gmit.sw.Runner
 
-The Menu
+<h2 align="center">
+  <b>The Menu</b>
+</h2>
+
 
 You are introduced to a menu of options:
 
@@ -17,7 +26,7 @@ You are introduced to a menu of options:
 HashMap Sorting
 The output file has been successful and has given me the number of occurrences of each 3 character n-gram, which is also sorted from high to low using a hashmap sorting method.
  
-How I did it?
+**How I did it?**
 
 Directory Filtering:
  ![image](https://user-images.githubusercontent.com/81272459/162643365-d60cfc5e-9e2e-4d15-a582-2195fec512a4.png)
