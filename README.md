@@ -14,7 +14,7 @@ Command: Java -Xmx1G –cp ./ngrammer.jar ie.gmit.sw.Runner
 
 You are introduced to a menu of options:
 
-•	Specifying Text File Directory: This option prompts the user to enter what text files they would like to read (Must be .txt file)
+•	Specifying Text File Directory: This option prompts the user to enter what text files they would like to read (Must be .txt file) or directory where multiple text files are held
 
 •	Specify n-Gram Size: This lets the user set the n-gram size they would like, ideally 1-5 
 
